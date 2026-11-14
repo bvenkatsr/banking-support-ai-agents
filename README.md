@@ -4,8 +4,6 @@ This is my capstone project for the Applied Generative AI Specialization. It's a
 
 It's built with Python, Streamlit and SQLite, and uses OpenAI for the language model parts.
 
-> This is an academic project. Please don't type real bank or personal details into it.
-
 ## What it does
 
 When a message comes in, it goes through a short chain of agents:
